@@ -6,3 +6,7 @@
 2. Method onCreate dan onPause
 -  onCreate Untuk menginisiasi suatu activity, biasanya dipanggil dengan perintah setContentCiew(int) untuk resource yang didefinisikan di layout UI, dengan perintah findViewById(int) untuk memanggil widget yang dibutuhkan UI untuk berinteraksi dengan aplikasi.
 -  onPause Untuk menyatakan ketika user meninggalkan suatu activity. Untuk penggunaan dengan Context.StartActivity(), semua kelas activity harus sesuai dengan yang dideklarasikan dalam suatu paket di AndroidManifest.xml. Activity adalah bagian penting dari model aplikasi.
+
+# Berikut Adalah Contoh Penerapan Linear Layout
+
+![WhatsApp Image 2021-02-09 at 20 39 37](https://user-images.githubusercontent.com/60589822/107374501-3ce69c00-6b1a-11eb-9f3b-b4c593bff7f2.jpeg)
